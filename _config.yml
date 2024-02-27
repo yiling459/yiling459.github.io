@@ -23,11 +23,9 @@ author:
   # Biographic information
   avatar           : "photo.jpeg"
   name             : "Yiling Cao"
-  pronouns         : # example: "she/her"  
   bio              : "Legally known as 曹艺龄"
-  location         : "Shanghai, China / New York, United States"
+  location         : "Shanghai / New York"
   employer         : "New York University Shanghai"
-  uri              : # URL
   email            : "yc5491@nyu.edu" 
 
   # Academic websites
