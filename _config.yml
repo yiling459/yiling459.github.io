@@ -21,7 +21,7 @@ repository               : "yiling459/yiling459.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpeg"
   name             : "Yiling Cao (曹艺龄)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
