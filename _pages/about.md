@@ -19,5 +19,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
+
 Some news coming soon…
