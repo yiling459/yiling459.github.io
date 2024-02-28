@@ -1,6 +1,5 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Tutoring experience 1"
 type: "MATH-SHU 131 Calculus"
 professor: "Prof. [Eric Endo](https://shanghai.nyu.edu/academics/faculty/directory/eric-endo)"
 permalink: /teaching/2022-fall-tutoring-1
