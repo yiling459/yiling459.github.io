@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in New York University Shanghai, 2025 (expected)
+  * Major in Applied Mathematics and Data Science (Artificial Intelligence track)
+  * Research Interest: Operation Research, Applied Mathematics
+  * Related Courses: Numerical Method I (PhD level course), Machine Learning, Convex and unsmooth Optimization, Ordinary Differentiation Equation, Honor Analysis I, Probability and Statistics, Honor Linear Algebra, Multivariable Calculus, Math modeling, Data Structure, Econometrics, Discrete Mathematics, Computer System Organization.
+  * Programming: Proficient in Python, Julia, MATLAB, MySQL, C and Stata
+
+Reseach and project experience
+======
+
 
 Work experience
 ======
