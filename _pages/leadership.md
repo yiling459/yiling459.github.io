@@ -1,5 +1,5 @@
 ---
-title: "Leadership"
+title: "leadership"
 permalink: /Leadership/
 author_profile: true
 ---
