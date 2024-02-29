@@ -30,7 +30,8 @@ Education
         Cumulative GPA: 3.75/4.00
     </span>
 </p>
-<p style="text-align:left;">Operation Research, Applied Mathematics, Computational Mathematics
+<p style="text-align:left;">
+    <strong>Research Interest:</strong> Operation Research, Applied Mathematics, Computational Mathematics
     </span>
 </p>
 <p style="text-align:left;">
