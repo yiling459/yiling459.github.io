@@ -47,7 +47,9 @@ Education
     </span>
 </p>
 * Research Interest: Operation Research, Applied Mathematics
+
 * Related Courses: Numerical Method I (PhD level course), Machine Learning, Convex and unsmooth Optimization, Ordinary Differentiation Equation, Honor Analysis I, Probability and Statistics, Honor Linear Algebra, Multivariable Calculus, Math modeling, Data Structure, Econometrics, Discrete Mathematics, Computer System Organization.
+
 * Programming: Proficient in Python, Julia, MATLAB, MySQL, C and Stata
 		
 Research Experience 
