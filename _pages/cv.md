@@ -15,7 +15,7 @@ Education
 <p style="text-align:left;">
     <strong>New York University Shanghai, Shanghai</strong>
     <span style="float:right;">
-        Expected Graduation Time: 05/2025
+	    09/2021 - 05/2025 (Expected Graduation Time)
     </span>
 </p>
 <p style="text-align:left;">
