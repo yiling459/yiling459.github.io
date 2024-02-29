@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Leadership"
 permalink: /Leadership/
 author_profile: true
@@ -10,4 +9,4 @@ At NYU Shanghai, I co-led TEDxNYUShanghai as associate director of the Speakers'
 
 If you want to know more about the previous events of TEDxNYUShanghai, you can check all events [here](https://www.ted.com/tedx/events?autocomplete_filter=TEDxNYUShanghai&when=past).
 
-## 
+## CCD
