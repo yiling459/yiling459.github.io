@@ -1,6 +1,6 @@
 ---
-title: "leadership"
-permalink: /Leadership/
+title: "Leadership"
+permalink: /leadership/
 author_profile: true
 ---
 ## TEDxNYUShanghai
