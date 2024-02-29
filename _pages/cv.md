@@ -23,17 +23,16 @@ Education
     <span style="float:right;">
         09/2023 - 05/2024
     </span>
-</p>
 <p style="text-align:left;">
     <strong>Major:</strong> Applied Mathematics and Data Science (Artificial Intelligence track)
     <span style="float:right;">
         Cumulative GPA: 3.75/4.00
     </span>
 </p>
-
 * Research Interest: Operation Research, Applied Mathematics
 * Related Courses: Numerical Method I (PhD level course), Machine Learning, Convex and unsmooth Optimization, Ordinary Differentiation Equation, Honor Analysis I, Probability and Statistics, Honor Linear Algebra, Multivariable Calculus, Math modeling, Data Structure, Econometrics, Discrete Mathematics, Computer System Organization.
 * Programming: Proficient in Python, Julia, MATLAB, MySQL, C and Stata
+
 <p style="text-align:left;">
     <strong>Shanghai Qibao High School, Shanghai</strong>
     <span style="float:right;">
