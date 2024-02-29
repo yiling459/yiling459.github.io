@@ -77,42 +77,35 @@ Research Experience
 Professional experience
 ======
 
-### **NYU Shanghai Residential Life**, Shanghai, China
+### **Shanghai Haisheng Private Equity Fund Management Co., Ltd.**, Shanghai, China
 <p style="text-align:left;">
-    <i>Resident Assistant</i>
+    <i>Quantitative Research Assistant</i>
     <span style="float:right;">
-        09/2021 - 12/2022
+        06/2023 - 08/2023
     </span>
 </p>
 
-* Managed residential hall 2 floors of 40 ethnically diverse residents by designing bi-weekly events, conducting 1-1 conferences, and enforcing residential policies.
-* Troubleshot emergencies regarding students’ physical and mental health, interpersonal conflicts, and facilities issues.
-*	Cooperated with a team of 6 supervisors and 30 resident assistants to conduct special projects including new recruits training, school-wide programs, and recruitment.
+* Contributed to the development and optimization of statistical arbitrage strategies using Python for data analysis and model building; gathered and cleaned stock market data, performed data processing by the Pandas library.
+* Applied machine learning algorithms such as Random Forest and Support Vector Machines for stock price prediction, comparing and optimizing them against traditional models. 
+* Assisted in risk management and portfolio optimization, utilizing the Markowitz model and covariance matrix for asset allocation and risk analysis, achieving a 10% increase in annualized returns and reducing maximum drawdown.
 
-### **Pingan Bank**, Shanghai, China
+
+### **DBS Bank (China), Shanghai**, Shanghai, China
 <p style="text-align:left;">
-    <i>Data Analyst Intern</i>
+    <i>Data Analyst Intern, Technology Operations Department</i>
     <span style="float:right;">
-        06/2021 – 08/2021
+        07/2022 – 09/2022
     </span>
 </p>
                                             	 
-* Retrieved and processed billions of data daily with HiveQL to support 6 business decisions on a plugin display system.
-*	Developed 16 auto-updating visualized reports on a Tableau-like platform for mid-year reports and daily monitor.
-*	Executed an automation project individually on tabulating and error-detecting process of the department's capacity report with Python, speeding up the workflow by 7 times and improved accuracy by 42%.
-*	Maintained 84 tables in a database by monitoring daily data updates, altering fields based on business requirements, and managing storage usage.
+* Responsible for data cleaning and transformation to ensure the accuracy and completeness of international trade finance transaction data by utilizing Python and the Pandas library.
+* Contributed to the development of a machine learning-based predictive model by using regression algorithms from the Scikit-learn library to establish a predictive model between trade finance demand and market variables, aiming to improve the efficiency of international trade finance approval processes and mitigate risks.
 
 ### **NYU Shanghai Center for Career Development**, Shanghai, China
 <p style="text-align:left;">
-    <i>Student Worker Leader & Senior Student Worker</i>
+    <i>Student Worker</i>
     <span style="float:right;">
-        09/2021 – 05/2022
-    </span>
-</p>
-<p style="text-align:left;">
-    <i>Junior Student Worker</i>
-    <span style="float:right;">
-        09/2020 – 08/2021
+        12/2021 – 05/2023
     </span>
 </p>
 
