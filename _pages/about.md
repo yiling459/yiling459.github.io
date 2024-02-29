@@ -11,4 +11,8 @@ Hi! I am an undergraduate student pursuing a B.S. degree in Applied Mathematics 
 
 Feel free to reach out to me through email if you are interested in my projects, research area, or others!
 
-Some news coming soon…
+News
+======
+
+* Some news coming soon...
+
