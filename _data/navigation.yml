@@ -3,20 +3,17 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Tutoring"
     url: /tutoring/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "Leadership"
     url: /leadership/
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "Guide"
     url: /markdown/
