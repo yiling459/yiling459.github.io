@@ -31,19 +31,19 @@ Education
 <p style="text-align:left;">
     <strong>New York University Shanghai, Shanghai</strong>
     <span style="float:right;">
-        Expected Graduation Time: 05/2024
+        Expected Graduation Time: 05/2025
     </span>
 </p>
 <p style="text-align:left;">
     <strong>New York University, New York</strong>
     <span style="float:right;">
-        01/2023 - 05/2023
+        09/2023 - 05/2024
     </span>
 </p>
 <p style="text-align:left;">
-    <strong>Major:</strong> Data Science (Artificial Intelligence track), <strong>Minor:</strong> Mathematics 
+    <strong>Major:</strong> Applied Mathematics and Data Science (Artificial Intelligence track)
     <span style="float:right;">
-        Cumulative GPA: 3.96/4.00
+        Cumulative GPA: 3.75/4.00
     </span>
 </p>
 		
