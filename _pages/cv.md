@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF version](files/CV_Yiling_Cao_2024_Feb.pdf) (Updated February 2024). 
+[PDF version](/files/CV_Yiling_Cao_2024_Feb.pdf) (Updated February 2024). 
 
 Education
 ======
