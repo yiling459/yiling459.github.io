@@ -12,22 +12,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in New York University Shanghai, 2025 (expected)
-  * Major in Applied Mathematics and Data Science (Artificial Intelligence track)
-  * Research Interest: Operation Research, Applied Mathematics
-  * Related Courses: Numerical Method I (PhD level course), Machine Learning, Convex and unsmooth Optimization, Ordinary Differentiation Equation, Honor Analysis I, Probability and Statistics, Honor Linear Algebra, Multivariable Calculus, Math modeling, Data Structure, Econometrics, Discrete Mathematics, Computer System Organization.
-  * Programming: Proficient in Python, Julia, MATLAB, MySQL, C and Stata
-
-Reseach and project
-======
-* A Second-order Optimization Package for Nonlinear Programming
-
-
-
-
-
-Education
-======
 <p style="text-align:left;">
     <strong>New York University Shanghai, Shanghai</strong>
     <span style="float:right;">
@@ -50,7 +34,13 @@ Education
 * Research Interest: Operation Research, Applied Mathematics
 * Related Courses: Numerical Method I (PhD level course), Machine Learning, Convex and unsmooth Optimization, Ordinary Differentiation Equation, Honor Analysis I, Probability and Statistics, Honor Linear Algebra, Multivariable Calculus, Math modeling, Data Structure, Econometrics, Discrete Mathematics, Computer System Organization.
 * Programming: Proficient in Python, Julia, MATLAB, MySQL, C and Stata
-		
+<p style="text-align:left;">
+    <strong>Shanghai Qibao High School, Shanghai</strong>
+    <span style="float:right;">
+        09/2018 - 06/2021
+    </span>
+</p>
+  
 Research Experience 
 ======
 ### **NYU Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning**
