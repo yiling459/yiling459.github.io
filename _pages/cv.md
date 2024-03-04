@@ -86,6 +86,17 @@ Research Experience
 </p>
 * Adopted the composite scheme of LightGBM and connected neural network (in which, the neural network model uses KNN to layer the training data to ensure that stocks of different volatility levels in each layer are balanced) to build a new automatic trading model, and ranked top 200 among 2000 teams in the world.      
 
+### **GameWiz, an online mulitplayer quiz game**
+<p style="text-align:left;">
+    <i>Course project, Advisor: Prof. Xianbin Gu, Dept of Computer Science, NYUSH.</i>
+    <span style="float:right;">
+        03/2022 - 05/2022
+    </span>
+</p>
+
+* This is the final project of CSCI-SHU 101 ICS. We made an online game called GameWiz -- an Online Multiplayer Quiz Game.
+
+
 *See [Projects](https://balechen.github.io/projects/) page for each research project that I have done.
 
 Professional experience
