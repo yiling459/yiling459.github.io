@@ -43,28 +43,48 @@ Education
   
 Research Experience 
 ======
-### **NYU Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning**
+### **A Second-order Optimization Package for Nonlinear Programming**
 
 <p style="text-align:left;">
-    <i>Research Assistant</i> (Mentored by Prof. Yik-Cheung Tam)
+    <i>Undergraduate Research, Advisor: Prof. Ye Yinyu, Dept of Engineering, Stanford University!</i> 
     <span style="float:right;">
-        05/2023 - Present
+        09/2023 - Present
     </span>
 </p>
 
-* Conducted research in the field of reinforcement learning and large language models
+* Expand algorithms such as DRSOM (a Dimension Reduced Second-Order Method) and HSODM (Homogenized Quadratic Model and A Second-Order Descent Method) for constrained problems into the existing open source DRSOM.jl library in Julia.
+* Summarized and presented 20+ latest papers to Prof. Ye during weekly meetings.
 
-### **Shanghai Key Lab of Urban Design and Urban Science (LOUD)**，Shanghai, China
+### **Fine Tuning Stable Diffusion Model With LoRA**
 <p style="text-align:left;">
-    <i>Research Associate</i> (Part-time)
+    <i>Undergraduate Research, Advisor: Prof. Li Guo, Dept of Computer Science, NYUSH.</i>
     <span style="float:right;">
-        05/2022 - Present
+        02/2023 - 05/2023
     </span>
 </p>
 
-* Led a lab research project on spatial equity analysis on public EV charging stations in Shanghai with Dr. Jialin Liu
-* Assisted in a water quality remote sensing project by developing a CNN model and processing sensed image data
-* Participated in bi-weekly lab meetings to present recent research progress and help other members with data modeling tasks
+* Finished reconstructing the stable diffusion model on the quickdraw dataset from google creative lab including the realization of Multi-Layer Neural Networks and CNN.
+* Fine-tuned the model to generate images of a specific style: generated quite a few visually satisfying images using the stable-diffusion-v1.5 model with the trained LoRA model added on top; guided generation results closer to ground truth images. 
+
+### **Calligraphy AI with Machine Learning methods**
+<p style="text-align:left;">
+    <i>Undergraduate Research, Advisor: Prof. Gus(Guangyu) Xia, Dept of Computer Science, NYUSH.</i>
+    <span style="float:right;">
+        06/2022 - 01/2023
+    </span>
+</p>
+
+* Collected and constructed a graphic database of calligraphical handwriting pattern data with distance matrix.
+* Applied graphical segmentation methods to identify calligraphical handwriting and generated new calligraphical styles which fit individuals’ writing patterns more.
+
+### **Optiver Global Programming Competition - Ready Trader Go**
+<p style="text-align:left;">
+    <i>Team leader</i>
+    <span style="float:right;">
+        01/2023 - 03/2023
+    </span>
+</p>
+* Adopted the composite scheme of LightGBM and connected neural network (in which, the neural network model uses KNN to layer the training data to ensure that stocks of different volatility levels in each layer are balanced) to build a new automatic trading model, and ranked top 200 among 2000 teams in the world.      
 
 *See [Projects](https://balechen.github.io/projects/) page for each research project that I have done.
 
