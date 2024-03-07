@@ -126,6 +126,33 @@ Professional experience
 * Responsible for data cleaning and transformation to ensure the accuracy and completeness of international trade finance transaction data by utilizing Python and the Pandas library.
 * Contributed to the development of a machine learning-based predictive model by using regression algorithms from the Scikit-learn library to establish a predictive model between trade finance demand and market variables, aiming to improve the efficiency of international trade finance approval processes and mitigate risks.
 
+Professional experience
+======
+
+### Academic Resource Center, New York University Shanghai, Shanghai
+<p style="text-align:left;">
+    <i>Course Assistant, Mathematics Department</i>
+    <span style="float:right;">
+        09/2022 – 05/2023
+    </span>
+</p>
+<p style="text-align:left;">
+    <i>MATH-SHU 140 Linear Algebra</i>
+    <span style="float:right;">
+        01/2023 – 05/2023
+    </span>
+</p>
+<p style="text-align:left;">
+    <i>MATH-SHU 131 Calculus</i>
+    <span style="float:right;">
+        09/2022 – 12/2022
+    </span>
+</p>
+  
+* Hosted weekly office hours and biweekly review sessions to tutor students on course materials, homework.
+* Conveyed students' feedback and commonly asked questions from office hours to faculty on a weekly basis.
+
+
 ### **NYU Shanghai Center for Career Development**, Shanghai, China
 <p style="text-align:left;">
     <i>Student Worker</i>
@@ -134,9 +161,9 @@ Professional experience
     </span>
 </p>
 
-*	Managed and coordinated a team of 17 to facilitate events and develop career-related resources.
-*	Executed a video making project with a team of 3, mainly producing a series of short videos for service introduction and event promotion, and organizing video-making workshops for colleagues.
-*	Organized and arranged recruitment process of new junior student workers, selecting 8 from 100+ candidates.
+* Managed and coordinated a team of 17 to facilitate events and develop career-related resources.
+* Executed a video making project with a team of 3, mainly producing a series of short videos for service introduction and event promotion, and organizing video-making workshops for colleagues.
+* Organized and arranged recruitment process of new junior student workers, selecting 8 from 100+ candidates.
 
 
 
